@@ -11,7 +11,7 @@ Email
 .. php:class:: Email(mixed $profile = null)
 
 ``Email`` est une nouvelle classe pour envoyer des emails. Avec cette classe,
-vous pouvez envoyer des emails depuis n'importe endroit de votre application.
+vous pouvez envoyer des emails depuis n'importe quel endroit de votre application.
 
 Utilisation basique
 ===================
@@ -60,7 +60,7 @@ Vous pouvez faire ceci en utilisant ``sender()``::
 
 .. note::
 
-    C'est aussi une bonne idée de définir l'envelope de l'émetteur quand on
+    C'est aussi une bonne idée de définir l'enveloppe de l'émetteur quand on
     envoie un mail de la part d'une autre personne. Cela les empêche d'obtenir
     tout message sur la délivrance.
 
